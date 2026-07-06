@@ -1,0 +1,123 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.asosiy{
+    box-shadow: 0px 0px   20px gray;
+    width: 650px;
+    height: 100px;
+    background-color: rgb(30, 4, 161);
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 600px;
+    border-radius: 15px 15px 0px 0px;
+    font-size: 20px;
+}
+
+
+.box1{
+    box-shadow: 0px 0px 20px gray;
+    width: 650px;
+    height: 870px;
+    background-color: rgb(207, 235, 244);
+    position: relative;
+    top: -5px;
+    left: 600px;
+    border-radius: 0px 0px 15px 15px;
+}
+
+
+
+.box2{
+    width: 350px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+    left: 150px;
+    top: 70px;
+}
+
+
+
+.b1{
+    width: 170px;
+    height: 210px;
+    position: relative;
+    border-radius: 10px;
+    background-color: lightskyblue;
+    top: 150px;
+    left: 20px;
+    font-size: 25px;
+}
+
+.b2{
+    width: 170px;
+    height: 210px;
+    position: relative;
+    border-radius: 10px;
+    background-color: rgb(253, 254, 225);
+    top: -60px;
+    left: 240px;
+    font-size: 23px;
+}
+
+.b3{
+    width: 180px;
+    height: 270px;
+    position: relative;
+    border-radius: 10px;
+    background-color: rgb(253, 254, 225);
+    top: -330px;
+    left: 450px;
+    font-size: 25px;
+}
+
+
+
+
+.box4{
+    position: relative;
+    bottom: 300px;
+    left: 20px;  
+}
+
+
+.a1{
+    width: 320px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    position: relative;
+}
+
+
+.a2{
+    width: 320px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    position: relative;
+    top: 15px;
+}
+
+
+.a3{
+    width: 320px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    position: relative;
+    top: 30px;
+}
+
+
+.box5{
+    position: relative;
+    bottom: 270px;
+    left: 20px;  
+}
